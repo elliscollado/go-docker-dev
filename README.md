@@ -1,2 +1,2 @@
 # go-docker-dev
-Go Deb Environment in docker container.
+Go Dev Environment in docker container.

@@ -15,4 +15,4 @@ RUN git clone https://github.com/fatih/vim-go.git ~/.vim/plugged/vim-go && \
 
 EXPOSE 8080
 
-ENTRYPOINT /usr/bin/bash
+ENTRYPOINT /bin/sh
